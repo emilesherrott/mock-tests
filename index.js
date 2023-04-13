@@ -1,4 +1,4 @@
-const addToTen = (a, b) => {
+const addsToTen = (a, b) => {
     if(a === undefined && b ===undefined){
         return false
     } else {
