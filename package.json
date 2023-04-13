@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "dev": "node index.js",
+    "test": "jest index.test.js"
+  },
+  "devDependencies": {
+    "jest": "^29.2.2",
+    "jest-each": "^29.2.1"
+  }
+}
